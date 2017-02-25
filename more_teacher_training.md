@@ -55,7 +55,6 @@ Raise your hand if you've been to a workshop before!
 
 ### ClojureBridge Fun Facts
 * Based on the RailsBridge model
-<!--* The workshops project was led by Sarah Allen and Sarah Mei.-->
 * Its goal: make the Clojure community more diverse and more welcoming to newcomers.
 * Workshops are happening all over the world!
 </section>
