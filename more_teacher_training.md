@@ -67,7 +67,7 @@ There are a few different ClojureBridge curricula:
 * Snowflakes (animation)
 * Twinkle Twinkle Little Star (making sounds)
 * Global Growth (web app with REST API)
-* Caeser Cipher
+* Caesar Cipher
 
 First, we get all the necessary technologies onto the students' computers (the Installfest).
 
